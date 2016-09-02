@@ -1,0 +1,22 @@
+{
+  "name": "gomoku-ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-Horse/gomoku-ai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/A-Horse/gomoku-ai/issues"
+  },
+  "homepage": "https://github.com/A-Horse/gomoku-ai#readme",
+  "description": ""
+}
